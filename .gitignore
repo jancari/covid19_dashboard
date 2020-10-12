@@ -1,4 +1,5 @@
 # personalized
+.DS_Store
 config.py
 script_corona_to_metabase_uncleaned.py
 script_corona_to_metabase.py
