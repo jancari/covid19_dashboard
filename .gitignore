@@ -1,3 +1,8 @@
+# personalized
+config.py
+script_corona_to_metabase_uncleaned.py
+script_corona_to_metabase.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
